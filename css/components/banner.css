@@ -1,0 +1,37 @@
+.banner {
+  background-size: cover;
+  background-position: center;
+  padding: 100px 200px;
+}
+
+.banner h1{
+  color: white;
+  text-shadow: 0 5px 5px rgba(0,0,0, 0.7);
+}
+.banner h2 {
+  color:white;
+  opacity: 0.7;
+  margin-bottom: 20px;
+  text-shadow: 0 5px 5px rgba(0,0,0, 0.7);
+  font-family: 'Radio Canada', sans-serif;
+
+}
+
+.banner a{
+  background-color: #6BCB77;
+  padding: 20px 25px;
+  color: white;
+  font-weight: bolder;
+  border-radius: 50px;
+  display:inline-block;
+  margin-top: 5px;
+}
+
+.banner a:hover{
+  color: #025c0e;
+}
+
+.card-container {
+  display:flex;
+  justify-content: space-around;
+}

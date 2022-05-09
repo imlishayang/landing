@@ -1,0 +1,26 @@
+.footer {
+  text-align: center;
+  padding: 60px;
+  background-color: #2c2b2b;
+  margin-top: 36px;
+}
+
+.links li{
+  list-style: none;
+  display: inline-block;
+  font-size: 28px;
+  padding: 0 10px;
+  color: #6BCB77;
+}
+
+ul{
+  padding: 0;
+}
+
+.links li:hover{
+  color: #025c0e;
+}
+
+p{
+  color: #635f5f;
+}
